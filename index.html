@@ -69,7 +69,7 @@
 
     </div>
     <br>
-    <div id="viewer">
+    <div id="viewer" style="display: grid;">
 
     </div>
 
@@ -104,7 +104,7 @@
             animals = await animals.json();
             localStorage.setItem('animals', JSON.stringify(animals))
             viewer.innerHTML = animals.map(animal => `
-            <div class="card" style="width: 18rem; display: flex;">
+            <div class="card" style="width: 18rem;">
                 <img src="media/${animal.Name}.png" class="card-img-top" alt="...">
                 <div class="card-body">
                 <p class="card-text">

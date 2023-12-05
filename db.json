@@ -6,6 +6,20 @@
       "Class": "mammals",
       "numLegs": "4",
       "id": 1
+    },
+    {
+      "Name": "lion",
+      "Color": "Yellow",
+      "Class": "mammals",
+      "numLegs": "4",
+      "id": 2
+    },
+    {
+      "Name": "lion",
+      "Color": "Yellow",
+      "Class": "mammals",
+      "numLegs": "4",
+      "id": 3
     }
   ]
 }

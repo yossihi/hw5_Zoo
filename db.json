@@ -1,0 +1,11 @@
+{
+  "zoo": [
+    {
+      "Name": "lion",
+      "Color": "Yellow",
+      "Class": "mammals",
+      "numLegs": "4",
+      "id": 1
+    }
+  ]
+}
